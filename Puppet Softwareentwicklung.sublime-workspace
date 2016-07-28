@@ -51,6 +51,54 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Best Practices - Puppet Module - Ursprung vom Word-Dokument.md",
+			"settings":
+			{
+				"buffer_size": 32880,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "coldsleep.md",
+			"settings":
+			{
+				"buffer_size": 25610,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Good Example for Update an used forge-module in your Project.md",
+			"settings":
+			{
+				"buffer_size": 972,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Puppet Snippes.md",
+			"settings":
+			{
+				"buffer_size": 5260,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Puppet Softwareentwicklung.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Puppet.md",
+			"settings":
+			{
+				"buffer_size": 6490,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -163,6 +211,7 @@
 	],
 	"file_history":
 	[
+		"/P/Puppet Softwareentwicklung/Virtual resources.md",
 		"/X/gitlab.hochguertel.biz/IHK/dokumentation/README",
 		"/X/IHK/dokumentation/.project",
 		"/X/CV/CV Examples/xeraa.cv.tex",
@@ -289,12 +338,11 @@
 		"/D/Applications/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.0.0/gems/win32-dir-0.4.9/lib/win32/dir/functions.rb",
 		"/D/Applications/Puppet Labs/Puppet/sys/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.5-x64-mingw32/lib/ffi/platform/x86_64-cygwin/types.conf",
 		"/C/Users/hochguertelto/.gem/ruby/gems/shell-0.0.1/lib/shell_utils.rb",
-		"/C/Users/hochguertelto/.gem/ruby/gems/shell-0.0.1/README.md",
-		"/C/Users/hochguertelto/.gem/ruby/gems/ffi-1.9.8/lib/ffi/platform/x86_64-cygwin/types.conf"
+		"/C/Users/hochguertelto/.gem/ruby/gems/shell-0.0.1/README.md"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -309,6 +357,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"test123",
+			"password",
+			"pass",
 			"social",
 			"AtBeginDocument",
 			"hyperref",
@@ -433,10 +484,7 @@
 			"api",
 			"python",
 			"disabled",
-			"task-list-item",
-			"ul",
-			"`",
-			")"
+			"task-list-item"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -508,8 +556,182 @@
 	"groups":
 	[
 		{
+			"selected": 5,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Best Practices - Puppet Module - Ursprung vom Word-Dokument.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20617,
+								20617
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8866.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "coldsleep.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Good Example for Update an used forge-module in your Project.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								523,
+								523
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Puppet Snippes.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Puppet Softwareentwicklung.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Puppet.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -556,7 +778,7 @@
 	"project": "Puppet Softwareentwicklung.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
